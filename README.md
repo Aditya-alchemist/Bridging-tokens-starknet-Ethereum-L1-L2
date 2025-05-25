@@ -132,7 +132,7 @@ flowchart LR
 | ![](https://github.com/user-attachments/assets/315fd16c-7087-44d8-8645-c372d9a0d882) | **Figure 2**: Tokens Received on Starknet L2 |
 | ![](https://github.com/user-attachments/assets/f9bab844-9504-4529-9321-a29c3f0de9e0) | **Figure 3**: Tokens Reflected in Wallet     |
 | ![](https://github.com/user-attachments/assets/160a8666-cc7a-4b58-9fad-6c9fa77d1b90) | **Figure 4**: Bridging Back to Ethereum      |
-| ![](https://github.com/user-attachments/assets/58b3a0b3-31bd-4afb-b04a-feb1b06b4902) | **Figure 5**: Final Confirmation on L1       |
+|![image](https://github.com/user-attachments/assets/699fbbaf-3e87-45a6-9740-b11e2b8b2213)| **Figure 5**: Final Confirmation on L1    |
 
 ---
 
