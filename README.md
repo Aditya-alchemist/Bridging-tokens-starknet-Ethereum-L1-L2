@@ -4,7 +4,15 @@ A full-stack implementation of token bridging between **Ethereum (L1)** and **St
 
 ---
 
+
 ## 🔎 What is Bridging?
+
+Bridging is a mechanism that allows you to move digital assets (like tokens or cryptocurrency) between different blockchains. Think of it as a secure tunnel connecting two separate blockchain networks.
+
+### The Core Concept
+
+Imagine you have tokens on Ethereum, but you want to use them on another blockchain like Polygon or Starknet. Since blockchains are isolated systems that can't directly communicate, you need a "bridge" to transfer your assets.
+
 
 > Bridging moves token *representation* between blockchains — not actual tokens.
 
